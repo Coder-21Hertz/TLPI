@@ -1,6 +1,6 @@
 # TLPI
 
-记录学习TLPI的仓库，书籍全名为Linux_UNIX系统编程手册，作者: [Michael Kerrisk](https://book.douban.com/search/Michael%20Kerrisk) 。
+记录学习TLPI的仓库，书籍全名为[Linux_UNIX系统编程手册](https://book.douban.com/subject/25809330/)，作者: [Michael Kerrisk](https://book.douban.com/search/Michael%20Kerrisk) 。
 
 ### 使用方法
 
